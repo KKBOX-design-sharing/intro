@@ -1,6 +1,11 @@
 這是一個很長很長的故事
 ===============
 
+<a href="https://www.youtube.com/watch?v=GFzjOzwtcxA&feature=youtu.be" target="_blank">![](https://github.com/KKBOX-design-sharing/intro/blob/master/emotion_4.jpg)</a> 
+
+
+
+
 
 
 ### Sass、Scss
