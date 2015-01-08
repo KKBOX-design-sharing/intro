@@ -5,7 +5,7 @@
 
 
 
-![](https://github.com/KKBOX-design-sharing/intro/blob/master/emotion_calm_bg.jpg)
+(https://github.com/KKBOX-design-sharing/intro/blob/master/emotion_calm_bg.jpg)
 ![](https://github.com/KKBOX-design-sharing/intro/blob/master/emotion_happy_bg.jpg)
 
 
